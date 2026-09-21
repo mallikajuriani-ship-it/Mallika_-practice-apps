@@ -1,0 +1,6 @@
+{
+  "name": "CPG Change Radar",
+  "description": "Compare retailer and commercial documents to identify what changed, what matters, and what to do next.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
